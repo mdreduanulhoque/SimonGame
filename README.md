@@ -6,7 +6,7 @@ The goal is simple — repeat the color sequence shown by the game as it gets fa
 ---
 
 ## 🌐 Live Demo  
-👉 
+👉 https://mdreduanulhoque.github.io/SimonGame/
 
 ---
 
@@ -62,3 +62,4 @@ Simon-Game/
 Made with ❤️ by **Reduan**  
 
 ---
+
