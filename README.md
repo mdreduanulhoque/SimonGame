@@ -19,27 +19,6 @@ The goal is simple — repeat the color sequence shown by the game as it gets fa
 
 ---
 
-## 📁 Project Structure  
-
-Simon-Game/
-│
-├── index.html
-├── styles/
-│ └── styles.css
-├── js/
-│ └── game.js
-├── How to play/
-│ └── howToPlay.html
-├── assets/
-│ └── sounds/
-│ ├── green.mp3
-│ ├── red.mp3
-│ ├── yellow.mp3
-│ └── blue.mp3
-└── README.md
-
----
-
 ## 🧠 How to Play  
 1. Press the **Start** button to begin the game.  
 2. Watch the sequence carefully — each color represents a tone.  
@@ -62,4 +41,5 @@ Simon-Game/
 Made with ❤️ by **Reduan**  
 
 ---
+
 
